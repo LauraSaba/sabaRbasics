@@ -1,3 +1,4 @@
+#Testing if I can edit code (KK)
 rsquare <- function(example,strains){
 	Y = matrix(example,nc=1)
 	J = matrix(1,nr=length(example),nc=length(example))
